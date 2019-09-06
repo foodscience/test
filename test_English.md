@@ -6,7 +6,7 @@
 * [English version](test_English.md)
 
 
-## 出汁キャビア
+## dashi caviar
 
 <img src="https://github.com/foodscience/test/blob/master/img/dashi_caviar.jpg" alt="Ruby" title="Ruby" />
 
